@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Circle(){
+public class Circle{
   private double r;
   public static double PI = Math.PI;
   public Circle(double radius){
